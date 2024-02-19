@@ -34,6 +34,7 @@
 .about__content {
   max-width: 660px;
   margin-left: auto;
+  margin-top: 19px;
   color: #fff;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
