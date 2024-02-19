@@ -11,8 +11,7 @@
 }
 
 .header__title {
-  margin-left: 80px;
-  margin-bottom: 28px;
+  margin: 0 0 28px 80px;
   max-width: 729px;
   font-weight: 500;
   font-size: 60px;
@@ -20,7 +19,7 @@
   letter-spacing: -0.6px;
 }
 
-.header__title_span-accent {
+.header__title_span_accent {
   font-family: "Noto Serif", "Times New Roman", serif;
   font-style: italic;
   font-weight: normal;
@@ -29,7 +28,7 @@
 }
 
 .header__description {
-  margin-left: 80px;
+  margin: 0 0 0 80px;
   max-width: 683px;
   font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
@@ -39,7 +38,7 @@
 .header__image {
   max-width: 646px;
   position: absolute;
-  top: 128px;
+  top: 124px;
   right: 5px;
   z-index: -1;
 }

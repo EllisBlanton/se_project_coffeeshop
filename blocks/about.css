@@ -40,11 +40,11 @@
   line-height: 30px;
 }
 
-.about__section {
+.about__paragraph {
   margin: 0 0 20px;
 }
 
-.about__section:last-of-type {
+.about__paragraph:last-of-type {
   margin: 0;
 }
 
@@ -53,8 +53,8 @@
   width: 426px;
   background-color: #2f80ed;
   position: absolute;
-  top: -128px;
-  left: -128px;
+  top: -152px;
+  left: -129px;
   border-radius: 50%;
 }
 

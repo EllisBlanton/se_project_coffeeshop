@@ -15,12 +15,11 @@
   margin-bottom: 32px;
   border-radius: 4px;
   padding: 0;
-  border: none;
+  font-size: 20px;
+  line-height: 30px;
 }
 
 .form__input::placeholder {
-  font-size: 20px;
-  line-height: 30px;
   color: #838383;
   padding: 0 20px;
 }
@@ -48,7 +47,7 @@
   justify-content: center;
 }
 
-.form__checkbox {
+.form__input_checkbox {
   align-self: center;
   background-image: url("../images/check.svg");
   border-radius: 2px;
