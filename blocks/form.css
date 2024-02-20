@@ -15,6 +15,7 @@
   margin-bottom: 32px;
   border-radius: 4px;
   border-color: #838383;
+  border-width: 1px;
   padding: 0;
   font-size: 20px;
   line-height: 30px;
@@ -41,7 +42,7 @@
   opacity: 70%;
 }
 
-.form__checkbox_label {
+.form__label_type_checkbox {
   display: flex;
   align-items: center;
   margin-bottom: 120px;
